@@ -1,0 +1,13 @@
+D:\대학생활\교내 생활\UXIM\2020-2\Unity 스터디\abc\bin\Debug\netcoreapp3.1\보미.exe
+D:\대학생활\교내 생활\UXIM\2020-2\Unity 스터디\abc\bin\Debug\netcoreapp3.1\보미.deps.json
+D:\대학생활\교내 생활\UXIM\2020-2\Unity 스터디\abc\bin\Debug\netcoreapp3.1\보미.runtimeconfig.json
+D:\대학생활\교내 생활\UXIM\2020-2\Unity 스터디\abc\bin\Debug\netcoreapp3.1\보미.runtimeconfig.dev.json
+D:\대학생활\교내 생활\UXIM\2020-2\Unity 스터디\abc\bin\Debug\netcoreapp3.1\보미.dll
+D:\대학생활\교내 생활\UXIM\2020-2\Unity 스터디\abc\bin\Debug\netcoreapp3.1\보미.pdb
+D:\대학생활\교내 생활\UXIM\2020-2\Unity 스터디\abc\obj\Debug\netcoreapp3.1\보미.csprojAssemblyReference.cache
+D:\대학생활\교내 생활\UXIM\2020-2\Unity 스터디\abc\obj\Debug\netcoreapp3.1\보미.AssemblyInfoInputs.cache
+D:\대학생활\교내 생활\UXIM\2020-2\Unity 스터디\abc\obj\Debug\netcoreapp3.1\보미.AssemblyInfo.cs
+D:\대학생활\교내 생활\UXIM\2020-2\Unity 스터디\abc\obj\Debug\netcoreapp3.1\보미.csproj.CoreCompileInputs.cache
+D:\대학생활\교내 생활\UXIM\2020-2\Unity 스터디\abc\obj\Debug\netcoreapp3.1\보미.dll
+D:\대학생활\교내 생활\UXIM\2020-2\Unity 스터디\abc\obj\Debug\netcoreapp3.1\보미.pdb
+D:\대학생활\교내 생활\UXIM\2020-2\Unity 스터디\abc\obj\Debug\netcoreapp3.1\보미.genruntimeconfig.cache
